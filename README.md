@@ -1,4 +1,4 @@
-> **New: interactive Rideflow UI** — see [DEMO.md](DEMO.md) for the runnable Java demo, setup, tests, attribution, and limitations. Run `mvn -Pdemo spring-boot:run -Dspring-boot.run.profiles=demo`.
+> **Interactive Rideflow UI** — see [DEMO.md](DEMO.md) for setup, tests, and known limitations. Run `mvn -Pdemo spring-boot:run -Dspring-boot.run.profiles=demo`.
 
 # Ride Hailing Platform
 
